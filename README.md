@@ -1,2 +1,2 @@
-# protein-protein-interaction-network-for-Alzheimer-s-Disease-associated-genes-on-Cytoscape
-Investigating the molecular interaction landscape of Alzheimer’s disease through a graph based network. 
+# Protein Protein Interaction (PPI) Analysis Of Alzheimer's disease
+Investigating the molecular interaction landscape of Alzheimer’s disease through a graph based network to output hub proteins.
