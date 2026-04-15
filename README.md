@@ -1,4 +1,3 @@
-- Aim: Investigating the molecular interaction landscape of Alzheimer’s disease through a graph based network to output hub proteins
 - Software: Cytoscape 
 - Packages: STRING Disease, Cytohubba, STRING Enrichment analysis
 
